@@ -16,11 +16,10 @@
 
 # 👨‍💻 About Me
 
-- 🎓 MSc in Informatics – Technical University of Košice (2025)
-- 💼 2+ years of IT Support experience
+- 🎓 MSc in Informatics – Technical University of Košice (2026)
 - ☁️ DevOps & Cloud Infrastructure enthusiast
 - 🐧 Linux, Docker & Kubernetes practitioner
-- 🌍 Based in Žilina, Slovakia
+- 🌍 Based in Bratislava, Slovakia
 - 🚀 Open to DevOps, Cloud Support, Infrastructure & SRE opportunities across Europe
 
 ## 💻 About Me (Python Style)
