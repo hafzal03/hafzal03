@@ -1,132 +1,201 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hafzal%20Ahamed%20Hasan%20Mohamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Enthusiast&descAlignY=62&descSize=16"/>
+    <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hafzal%20Ahamed%20Hasan%20Mohamed&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Integration%20%26%20Agentic%20Systems&descAlignY=62&descSize=16"/>
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=DevOps+Engineer+in+Progress;Cloud+Infrastructure+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS;Open+to+Opportunities+Across+Europe"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Building+Agentic+AI+Systems;MCP+Servers+%7C+LangChain+%7C+LangGraph+%7C+RAG;Python+%7C+Docker+%7C+Kubernetes+%7C+Azure;Open+to+AI+Engineering+Opportunities+Across+Europe"/>
 </h1>
 
-<h3 align="center">Building reliable infrastructure, automating deployments, and solving real-world IT challenges.</h3>
+<h4 align="center">Designing agent-facing tools, retrieval pipelines, and cloud-native services that connect AI agents to real systems — with the software engineering discipline to keep them secure, testable, and maintainable.</h4>
 
 <p align="center">
 <a href="https://github.com/hafzal03"><img src="https://komarev.com/ghpvc/?username=hafzal03&style=flat-square&color=blue"/></a>
 <a href="https://linkedin.com/in/hafzal-ahamed-hasan-mohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://hafzal.dev"><img src="https://img.shields.io/badge/Portfolio-hafzal.dev-6E56CF?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="mailto:hafzalahamed003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-# 👨‍💻 About Me
+---
 
-- 🎓 MSc in Informatics – Technical University of Košice (2026)
-- ☁️ DevOps & Cloud Infrastructure enthusiast
-- 🐧 Linux, Docker & Kubernetes practitioner
-- 🌍 Based in Bratislava, Slovakia
-- 🚀 Open to DevOps, Cloud Support, Infrastructure & SRE opportunities across Europe
+## 👋 About Me
+
+- 🎓 **M.Sc. in Informatics** — Technical University of Košice, Faculty of Electrical Engineering and Informatics (2023–2025)
+- 🎓 **B.C.A. (Bachelor of Computer Applications)** — Jamal Mohamed College (Autonomous), India (2020–2023)
+- 🤖 Founder & AI Engineer at **Khwarizmi Studio**, building an end-to-end agentic AI platform — MCP servers, LangGraph-orchestrated workflows, and multi-provider LLM integration
+- 🔎 Deep hands-on experience with **Model Context Protocol (MCP)**, **LangChain**, **LangGraph**, and **Retrieval-Augmented Generation (RAG)**
+- 🐳 Comfortable across the full stack — Python backends, REST APIs, Docker/Kubernetes containerization, and CI/CD automation
+- 🌍 Based in Bratislava, Slovakia — open to Software Engineering, AI Integration, and AI Agent Engineering roles across Europe
+- 🧠 Currently sharpening Azure DevOps, FastAPI, SQLAlchemy, and enterprise cloud security (Key Vault, Managed Identity)
+
+I like turning "we want AI to do X" into a governed, testable system — the kind where the application, not the model, decides what a tool is allowed to do. That's the problem Khwarizmi Studio and most of the projects below are built around.
 
 ## 💻 About Me (Python Style)
 
 ```python
 class Hafzal:
     name = "Hafzal Ahamed Hasan Mohamed"
-    location = "Žilina, Slovakia"
-    degree = "MSc Informatics - TUKE"
-    stack = ["Linux","Docker","Kubernetes","AWS","Python","C++","PostgreSQL"]
-    currently_learning = ["Terraform","AWS","CI/CD","Infrastructure Automation"]
+    location = "Bratislava, Slovakia"
+    degree = "M.Sc. Informatics — Technical University of Košice"
+    focus = "AI Integration & Agentic Systems"
+
+    core_stack = [
+        "Python", "MCP (Model Context Protocol)", "LangChain", "LangGraph",
+        "RAG", "Flask", "PostgreSQL", "pgvector", "Docker", "Kubernetes",
+        "Git", "GitHub Actions", "Microsoft Azure"
+    ]
+
+    currently_learning = [
+        "Azure DevOps Pipelines", "FastAPI", "SQLAlchemy",
+        "Enterprise Cloud Security (Key Vault, Managed Identity)"
+    ]
 
     def motto(self):
-        return "Automate everything. Learn continuously."
+        return "Design the tool, govern the agent, ship it properly."
 ```
 
-# 🛠️ Tech Stack
+---
 
-## Languages
-Python • C++ • SQL • HTML • CSS
+## 🛠️ Tech Stack
 
-## Cloud & DevOps
-Docker • Kubernetes • AWS Fundamentals • CI/CD • Linux
+**AI & Agentic Systems**
+Model Context Protocol (MCP) • Agentic Architecture • LangChain • LangGraph • Tool / Function Calling • LLM Integration (Anthropic, Google Gemini) • Retrieval-Augmented Generation (RAG) • Table-Augmented Generation • Vector Search & Embeddings • Prompt Engineering • Structured Outputs
 
-## Networking
+**Programming Languages**
+Python • Java • C++ • JavaScript • TypeScript • SQL
+
+**Backend & APIs**
+Flask • REST API design & integration • Backend service development
+
+**Data & Databases**
+PostgreSQL • pgvector • MySQL • SQLite • Relational database design • Data validation & processing
+
+**Cloud & DevOps**
+Docker • Kubernetes • Microsoft Azure (Static Web Apps, deployment, custom domains) • AWS Fundamentals (Solutions Architect – Associate training) • Git • GitHub • GitHub Actions (CI/CD) • Linux
+
+**Networking**
 TCP/IP • DNS • DHCP • VPN • Routing • Switching
 
-## Databases
-PostgreSQL • SQL
+**Tools**
+Git • GitHub • Virtual Machines • Microsoft Office
 
-## Tools
-Git • GitHub • TeamViewer • Virtual Machines • Microsoft Office
+---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hafzal03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hafzal03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafzal03&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hafzal03&theme=tokyonight-duo"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafzal03&layout=compact&theme=tokyonight&hide_border=true)
+---
 
-![Streak](https://streak-stats.demolab.com?user=hafzal03&theme=tokyonight-duo)
+## 🏆 Featured Projects
 
-# 🏆 Featured Projects
+### 🧠 Khwarizmi Studio — Agentic AI Platform
+*Founder & AI Engineer, May 2026 – Present*
 
-### 🤖 Face Recognition Attendance System
-- Python + OpenCV
-- Automated attendance management
-- Face detection and recognition
-- Master's thesis project
+An end-to-end agentic AI platform moving beyond single-call chatbots into a full application architecture spanning retrieval, tool use, workflow orchestration, and structured outputs.
 
-### ☸️ Kubernetes Deployment Project
-- Kubernetes, Docker
-- Deployments, Services, Namespaces
-- Persistent Volumes & PVCs
-- Scalable container orchestration
+- Built **three MCP servers** — sandboxed code execution, GitHub operations (repo creation, commits, pull requests), and repository search — with the application layer, not the model, governing tool execution and validation
+- Orchestrated agent behavior with **LangGraph** (intent classification → retrieval → tool selection → execution → validation → response generation) and used **LangChain** to wire together models, prompts, retrievers, tools, and memory
+- Built a **RAG pipeline** with document chunking, embeddings, and PostgreSQL + pgvector similarity search, plus a table-augmented generation path for structured/relational data
+- Integrated multiple LLM providers (Anthropic, Google Gemini) behind a provider-agnostic layer with function calling and malformed tool-call handling
+- Built a **GitHub App** integration (private-key auth + OAuth) so users can connect their own GitHub accounts
+- Containerized the full stack with Docker; built an internal evaluation framework covering 21 quality metrics with a results dashboard
+- Applied security practices throughout: secret redaction, credential rotation, tool allowlists, input/output validation, and structured observability (token/latency tracking, failure categorization)
 
-### 🔒 Secure Client-Server Communication
-- C++ Networking
-- Diffie-Hellman Key Exchange
-- Encrypted communication channel
+`Python` `MCP` `LangChain` `LangGraph` `Anthropic API` `Gemini API` `PostgreSQL` `pgvector` `Docker` `RAG` `CI/CD` `Microsoft Azure`
 
-### 🐳 Dockerized Flask Application
-- Flask + PostgreSQL
-- Multi-container architecture
-- Persistent storage configuration
+### 🌐 Hafzal.dev — Personal AI Engineering Portfolio
 
-### ⚡ Parallel Computing Projects
-- OpenMP
-- Matrix Multiplication
-- Edge Detection with OpenCV
-- Performance evaluation
+A Next.js 15 portfolio with its own RAG-based AI chatbot, **Hafzal AI**, that answers questions about my professional background.
 
-# 💼 Professional Experience
+- RAG architecture: portfolio content is chunked, embedded with Google Gemini embeddings, retrieved by cosine similarity, and passed as context to a Gemini LLM — no external vector database
+- Fully automated deployment lifecycle: Git → GitHub → GitHub Actions (build/test) → Azure Static Web Apps, with a custom domain, DNS configuration, and HTTPS/SSL
+- Server-side environment variable and secret management for API integrations
 
-## IT Support Employee (Part-Time)
-**Tasty Park Restaurant, Košice, Slovakia (2024–2025)**
+`Next.js 15` `TypeScript` `GitHub Actions` `Azure Static Web Apps` `Gemini API` `RAG` `Embeddings`
 
-- Diagnosed and resolved hardware, software and networking issues
-- Maintained workplace systems and infrastructure
-- Performed preventive maintenance to minimize downtime
-- Delivered end-user support and troubleshooting
-- Assisted with hardware deployment and upgrades
+### 📋 Information System for Computer-Aided Software Engineering (CASE) — Master's Thesis
 
-# 🎓 Education
+A web-based information system supporting CASE and project-management activities, built as my M.Sc. diploma project at TUKE.
+
+- Requirements management, dependency tracking with circular-dependency detection, and responsibility assignment via an incidence matrix
+- Automated project scheduling and Gantt chart generation, plus a project glossary and structured data import/export
+- Verified through defined functional test scenarios covering each module and the dependency-management logic
+
+`Python` `Flask` `Relational Database` `Requirements Engineering` `Software Testing`
+
+### 🛒 Bite Globe E-Commerce Platform
+
+*Built during my time as Technical Operations Assistant at Bite Globe*
+
+A Flask-based platform with REST API integration and SQL-driven data validation, deployed with a multi-container Docker architecture and persistent storage configuration.
+
+`Flask` `PostgreSQL` `Docker` `REST APIs` `SQL`
+
+### ☸️ Docker & Kubernetes Deployment on Microsoft Azure
+
+Containerized and deployed applications using Docker and Kubernetes on Microsoft Azure, including image storage, container orchestration, deployments, services, namespaces, and persistent volumes — applying cloud infrastructure and Linux fundamentals.
+
+`Docker` `Kubernetes` `Microsoft Azure` `Linux`
+
+### 🔒 Secure Client–Server Communication System
+
+A secure C++ client–server system implementing a Diffie-Hellman key exchange for an encrypted communication channel, applying networking, communication protocols, and system architecture principles.
+
+`C++` `Networking` `Diffie-Hellman` `System Architecture`
+
+### ⚡ Parallel Computing Coursework
+
+Master's-level coursework projects in parallel programming, using OpenMP for matrix multiplication and OpenCV-based edge detection, with performance evaluation across implementations.
+
+`OpenMP` `C++` `OpenCV` `Performance Evaluation`
+
+---
+
+## 💼 Professional Experience
+
+**Founder & AI Engineer — Khwarizmi Studio (Remote)** · *May 2026 – Present*
+Architecting and building an agentic AI platform end-to-end: MCP servers, LangGraph-orchestrated workflows, multi-provider LLM integration, RAG, and secure, observable infrastructure. Part-time alongside the Bite Globe role through Aug 2026; full-time since Aug 2026.
+
+**Technical Operations Assistant — Bite Globe, Slovakia (Part-time)** · *Jan 2026 – Aug 2026*
+Developed and maintained backend applications and internal data workflows using Python, Flask, SQL, and PostgreSQL. Designed and integrated REST APIs, maintained technical documentation, and contributed across the full project lifecycle — requirements, design, development, testing, and deployment. Containerized and deployed applications using Docker and Kubernetes in Linux environments.
+
+---
+
+## 🎓 Education
 
 | Degree | Institution | Year |
-|----------|-------------|------|
-| MSc Informatics | Technical University of Košice (TUKE) | 2023-2025 |
-| Bachelor of Computer Applications | Jamal Mohamed College, India | 2020-2023 |
+|---|---|---|
+| M.Sc. in Informatics | Technical University of Košice (TUKE), Faculty of Electrical Engineering and Informatics | 2023 – 2025 |
+| Bachelor of Computer Applications (BCA) | Jamal Mohamed College (Autonomous), India | 2020 – 2023 |
 
-# 🌱 Currently Learning
+**Certifications & Training:** AWS Certified Solutions Architect – Associate Training (CSTech/SYSTECH, 2022) • C++ Programming Certificate (Bharathidasan University, 2017) • PC Hardware and Troubleshooting (Jamal Mohamed College)
 
-- AWS Cloud Services
-- Terraform
-- GitHub Actions
-- Kubernetes Administration
-- Infrastructure as Code
-- CI/CD Pipelines
+---
 
-# 🎯 Career Interests
+## 🌱 Currently Learning
 
-- DevOps Engineering
-- Cloud Infrastructure
-- Linux Administration
-- Site Reliability Engineering
-- Platform Engineering
-- Infrastructure Automation
+Azure DevOps Pipelines • FastAPI • SQLAlchemy • Enterprise Cloud Security (Key Vault, Managed Identity)
 
+## 🎯 What I'm Looking For
+
+- AI-Enabled Software Engineering — MCP servers, agent-facing tools, LLM application integration
+- Backend & API Engineering — Python, Flask/FastAPI, secure service design
+- Cloud-Native & DevOps — Docker, Kubernetes, Azure, CI/CD automation
+- Agentic Architecture — LangChain, LangGraph, RAG, workflow orchestration
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
+
+<p align="center"><i>Thanks for reading this far — reach out if you're building something with AI agents, MCP, or cloud-native Python services.</i></p>
 # 📫 Connect With Me
 
 - GitHub: https://github.com/hafzal03
